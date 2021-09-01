@@ -1,6 +1,6 @@
 # Hi there, im umutshlast! 👋
 
-- 👌 Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on javascript projects.
 - 🌱 I’m currently learning python language.
