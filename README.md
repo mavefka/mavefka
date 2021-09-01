@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/stableumut)
 
 - 👌 I know a lot of coding languages, including Javascript and HTML, I love this job, man.
-
 - 🤩 Honestly, I don't really care about the stars, so it doesn't bother me that it's 0.
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=stableumut&show_icons=true&theme=radical)
