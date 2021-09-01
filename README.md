@@ -1,6 +1,4 @@
-# Hi there 👋
-
-My name is umutshlast!
+# Hi there, im umutshlast! 👋
 
 Here are some ideas to get you started:
 
