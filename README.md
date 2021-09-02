@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on javascript projects.
 - 🌱 I’m currently learning python language.
-- ⚡ Fun fact: i am 15 years old, yep its fun fact!
+- ⚡ Fun fact: i am 15 years old, yep it's fun fact!
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/javascript)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/ukqzn)
