@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 Some my achievements:
 
-- ⭐️ Discord Partnered Server Owner (Click the discord button to join.)
-- ✔️ 2 Verified Discord Bot Owner
+- ⭐️ Discord partnered server owner. (Click the discord button to join.)
+- ✔️ 2 verified Discord bot owner.
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/javascript)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/ukqzn)
