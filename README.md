@@ -1,4 +1,4 @@
-# Hi there, im umutshlast! 👋
+# Hi there, im umut! 👋
 
 Here are some ideas to get you started:
 
