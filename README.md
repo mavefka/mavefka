@@ -1,4 +1,4 @@
-unut ben, öyle birisi. nickimde gördüğünüz gibi mavefka. başka özel bir şeyim yok.
+umut ben, öyle birisi. nickimde gördüğünüz gibi mavefka. başka özel bir şeyim yok.
 kodlar yazıyorum, canım istediğinde.
 
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/ukqzn)
