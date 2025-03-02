@@ -1,2 +1,2 @@
 # merhaba
-bu kısma ne yazmam gerek?
+bu kısma ne yazmam gerekti?
